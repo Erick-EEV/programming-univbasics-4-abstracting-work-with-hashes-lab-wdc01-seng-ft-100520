@@ -12,6 +12,6 @@ count = 6
   if hash[key]
     hash[key] += 6
   else
-    hash[key] = 6
+    hash[count]
   end
 end
